@@ -1,7 +1,5 @@
 // Please translate the text
 
-Öncelikle merhaba,
-Bot her yerden erişilebilir bir seviyede kodlamaya sahiptir. 
 
 Üretilirken:
 
